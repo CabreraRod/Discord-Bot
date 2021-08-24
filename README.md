@@ -1,0 +1,2 @@
+# Discord-Bot
+Discord es una aplicación de chat que permite a millones de usuarios de todo el mundo transmitir mensajes y voz en línea en comunidades llamadas gremios o servidores. Discord también proporciona una amplia API que los desarrolladores pueden usar para crear potentes bots de Discord. Los bots pueden realizar diversas acciones, como enviar mensajes a servidores, mensajes directos a usuarios, moderar servidores y reproducir audio en los chats de voz.
